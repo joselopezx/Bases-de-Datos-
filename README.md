@@ -1,0 +1,12 @@
+# Bases-de-Datos-
+## ¿Que es una base de datos?
+Es una forma de almacenar datos digitales estructuradamente, ayudando a gestionarlos y poder hacer diferentes movimientos como, creación, actualización, eliminación y consulta
+esto mediante un lenjuage.
+## Modelo conceptual, logico y fisico
+## SGDBD
+Un SGBD (sistema gestos de bases de datos) es el software que nos pemite la creacion de esteas bases, usando como base los modelos ya creados.
+Algunos de estos sistemas que se pueden encontrar en el mercado son MariaDB, MySQL, OracleDB, MongoDB.
+## Entidad
+
+## Modelo Entidad - Relación
+En este modelo se representan las entidades que seran parte de la base y el como se relacionan unas con otras
