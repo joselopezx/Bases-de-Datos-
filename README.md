@@ -6,8 +6,9 @@ Esta suele ser trabajada en conjunto con un SGDB
 ## SGDB
 Un SGBD (sistema gestos de bases de datos) es el software que nos pemite la creacion de esteas bases, usando como base los modelos ya creados.
 Algunos de estos sistemas que se pueden encontrar en el mercado son MariaDB, MySQL, OracleDB, MongoDB.
-<img width="360" height="127" alt="image" src="https://github.com/user-attachments/assets/9129f822-3e1d-4485-b2bc-e861ea02be75" />
-<img width="360" height="127" alt="image" src="https://github.com/user-attachments/assets/8b90a6e6-3618-4195-886c-fced7cadeecb" />
+
+<img width="320" height="127" alt="image" src="https://github.com/user-attachments/assets/9129f822-3e1d-4485-b2bc-e861ea02be75" />
+<img width="320" height="127" alt="image" src="https://github.com/user-attachments/assets/8b90a6e6-3618-4195-886c-fced7cadeecb" />
 
 ## Bases de datos y su uso para el analisis y la toma de deciciones empresariales
 Con la dijitalización en diferentes ramas e incluso en la mayoria de nuestras vidas, se generan millones de datos, desde navegar en la web, comprar en linea.
