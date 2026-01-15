@@ -6,6 +6,8 @@ esto mediante un lenjuage.
 ## SGDBD
 Un SGBD (sistema gestos de bases de datos) es el software que nos pemite la creacion de esteas bases, usando como base los modelos ya creados.
 Algunos de estos sistemas que se pueden encontrar en el mercado son MariaDB, MySQL, OracleDB, MongoDB.
+<img width="560" height="227" alt="image" src="https://github.com/user-attachments/assets/9129f822-3e1d-4485-b2bc-e861ea02be75" />
+
 ## Entidad
 
 ## Modelo Entidad - Relación
