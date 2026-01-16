@@ -22,6 +22,8 @@ La pregunta puede ser ¿Cómo se manejan o como se pueden manejas grandes cantid
 
 ## Modelo Entidad - Relación
 En este modelo se representan las entidades que seran parte de la base y el como se relacionan unas con otras
+### Simbologia 
+<div border-color="#0000"></div>
 
 ### Referencias
 ¿Que es una base de datos?, Oracle, 24 de noviembre de 2020, recuperado de https://www-oracle-com.translate.goog/database/what-is-database/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc
