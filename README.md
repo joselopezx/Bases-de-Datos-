@@ -23,8 +23,12 @@ La pregunta puede ser ¿Cómo se manejan o como se pueden manejas grandes cantid
 ## Modelo Entidad - Relación
 En este modelo se representan las entidades que seran parte de la base y el como se relacionan unas con otras
 ### Simbologia 
-flowchart TB
-    A[Rectángulo]
++----------------------+
+|                      |
+|      RECTÁNGULO      |
+|                      |
++----------------------+
+
 
 
 ### Referencias
