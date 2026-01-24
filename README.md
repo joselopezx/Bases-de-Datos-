@@ -25,6 +25,9 @@ En este modelo se representan las entidades que seran parte de la base y el como
 ### Simbologia 
 #### Entidad fuerte
 <img width="212" height="212" alt="image" src="https://github.com/user-attachments/assets/530c7bf7-e450-45b9-835b-497b263589a7" />
+#### Relación
+#### Cardinalidad
+Existen diferentes cardinalidades dependiendo de las entidades con las que se esta relacionando, estas son 0:1, 1:1, M:N
 
 #### Entidad debil
 
