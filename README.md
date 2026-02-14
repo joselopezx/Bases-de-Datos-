@@ -3,6 +3,10 @@
 Es una forma de almacenar datos digitales estructuradamente, ayudando a gestionarlos y poder hacer diferentes movimientos como, creación, actualización, eliminación y consulta
 esto mediante un lenjuage.
 Esta suele ser trabajada en conjunto con un SGDB 
+## Bases de datos **relacionales**
+Representan y almacenan datos en tablas.
+## Bases de datos **no relacionales**
+Tambien conocidas como NoSQL (Not Only SQL), utilizan una variadad de estructuras de datos como documentos, grafos o pares llave-valor.
 ## SGDB
 Un SGBD (sistema gestos de bases de datos) es el software que nos pemite la creacion de esteas bases, usando como base los modelos ya creados.
 Algunos de estos sistemas que se pueden encontrar en el mercado son MariaDB, MySQL, OracleDB, MongoDB.
@@ -42,3 +46,5 @@ Modelado de bases de datos: entidades, relaciones y atributos, Alura Latam, 19 d
 
 
 Modelado de Datos: Conceptos Generales y Reglas de Relacionamiento, Alura Latam, 11 02 2025, https://www.aluracursos.com/blog/modelado-de-datos-conceptos-generales-reglas-de-relacionamiento
+
+Pandas E/S: trabajando con diferentes formatos de archivo, AluraLatam, 02 14 2026, https://app.aluracursos.com/course/pandas-e-s-diferentes-formatos-archivo/task/86145
