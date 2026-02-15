@@ -37,9 +37,22 @@ Existen diferentes cardinalidades dependiendo de las entidades con las que se es
 
 #### Entidad debil
 
+## Clausulas
+*SELECT* especifica qué columnas deben seleccionarse en la consulta.
+
+*FROM* especifica las tablas de la base de datos que se consultaran.
+
+*WHERE* filtra los resultados de la consulta segun una o mas condiciones especificadas.
+
+*ORDER BY* filtra los resultados de la cinsulta según una o mán condiciones especificadas.
+
+*GROUP BY* agrupa los resultados de la conuslta basados en una o más columnas.
+
+*LIMIT* limita el número de filas devueltas por los resultados de la consulta.
 
 
-### Referencias
+
+## Referencias
 ¿Que es una base de datos?, Oracle, 24 de noviembre de 2020, recuperado de https://www-oracle-com.translate.goog/database/what-is-database/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc
 
 Modelado de bases de datos: entidades, relaciones y atributos, Alura Latam, 19 de octubre de 2024, recuperado de https://app.aluracursos.com/course/modelado-bases-datos-entidades-relaciones-atributos 
