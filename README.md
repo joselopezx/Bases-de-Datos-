@@ -4,9 +4,9 @@ Es una forma de almacenar datos digitales estructuradamente, ayudando a gestiona
 esto mediante un lenjuage.
 Esta suele ser trabajada en conjunto con un SGDB    
 
-| DDL | DML | DCL | Comandos |
-|-----|-----|-----|----------|
-| Manipular estructuras de las BDD (CREATE, DROP) | Manipulación de datos (SELECT, INSERT, UPDATE, DELETE) | Administración de la estructura de la base de datos: accesos de usuarios, logs, políticas, crecimiento de la BDD | |
+| DDL | DML | DCL |
+|-----|-----|-----|
+| Manipular estructuras de las BDD (CREATE, DROP) | Manipulación de datos (SELECT, INSERT, UPDATE, DELETE) | Administración de la estructura de la base de datos: accesos de usuarios, logs, políticas, crecimiento de la BDD |
 
 ## Bases de datos **relacionales**
 Representan y almacenan datos en tablas.
