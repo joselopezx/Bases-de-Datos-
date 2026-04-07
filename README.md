@@ -2,7 +2,12 @@
 ## ¿Que es una base de datos?
 Es una forma de almacenar datos digitales estructuradamente, ayudando a gestionarlos y poder hacer diferentes movimientos como, creación, actualización, eliminación y consulta
 esto mediante un lenjuage.
-Esta suele ser trabajada en conjunto con un SGDB 
+Esta suele ser trabajada en conjunto con un SGDB  
+
+| DDL | DML | DCL | Comandos |
+|-------|----------|-------------------|
+| Maanipular estructuras de las bdd, create, drop,  | Manipulacion de datos Select Incert, update, delete | Se encarga de la administracion de la base de datos la estructura, accesos a ausuarios , logs, politicas, crecimiento de la base de datos | 
+
 ## Bases de datos **relacionales**
 Representan y almacenan datos en tablas.
 ## Bases de datos **no relacionales**
