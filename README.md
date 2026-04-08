@@ -64,11 +64,8 @@ Existen diferentes cardinalidades dependiendo de las entidades con las que se es
 
 
 ## Referencias
-¿Que es una base de datos?, Oracle, 24 de noviembre de 2020, recuperado de https://www-oracle-com.translate.goog/database/what-is-database/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc
-
-Modelado de bases de datos: entidades, relaciones y atributos, Alura Latam, 19 de octubre de 2024, recuperado de https://app.aluracursos.com/course/modelado-bases-datos-entidades-relaciones-atributos 
-
-
-Modelado de Datos: Conceptos Generales y Reglas de Relacionamiento, Alura Latam, 11 02 2025, https://www.aluracursos.com/blog/modelado-de-datos-conceptos-generales-reglas-de-relacionamiento
-
-Pandas E/S: trabajando con diferentes formatos de archivo, AluraLatam, 02 14 2026, https://app.aluracursos.com/course/pandas-e-s-diferentes-formatos-archivo/task/86145
+¿Qué es SQL?, AluraLatam, Paulo Silveira, 10/06/2021, https://www.aluracursos.com/blog/que-es-sql  
+¿Que es una base de datos?, Oracle, 24 de noviembre de 2020, recuperado de https://www-oracle-com.translate.goog/database/what-is-database/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc  
+Modelado de bases de datos: entidades, relaciones y atributos, Alura Latam, 19 de octubre de 2024, recuperado de https://app.aluracursos.com/course/modelado-bases-datos-entidades-relaciones-atributos  
+Modelado de Datos: Conceptos Generales y Reglas de Relacionamiento, Alura Latam, 11 02 2025, https://www.aluracursos.com/blog/modelado-de-datos-conceptos-generales-reglas-de-relacionamiento  
+Pandas E/S: trabajando con diferentes formatos de archivo, AluraLatam, 02 14 2026, https://app.aluracursos.com/course/pandas-e-s-diferentes-formatos-archivo/task/86145  
