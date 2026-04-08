@@ -19,12 +19,6 @@ Algunos de estos sistemas que se pueden encontrar en el mercado son MariaDB, MyS
 <img width="320" height="127" alt="image" src="https://github.com/user-attachments/assets/9129f822-3e1d-4485-b2bc-e861ea02be75" />
 <img width="320" height="127" alt="image" src="https://github.com/user-attachments/assets/8b90a6e6-3618-4195-886c-fced7cadeecb" />  
 
->.[!NOTE]  
->Aqui puedes descargar diferenses SGDB
-
-`Maria DB` -> https://mariadb.org/ - Ligero soporta MariaDB, MySQL, Posgre.  
-`MySQL workbench` -> https://dev.mysql.com/downloads/workbench/ - Nativo en windows, linux, y mac, para trabajar con MySQL y MariaDB  
-
 ## Bases de datos y su uso para el analisis y la toma de deciciones empresariales
 Con la dijitalización en diferentes ramas e incluso en la mayoria de nuestras vidas, se generan millones de datos, desde navegar en la web, comprar en linea.
 La pregunta puede ser ¿Cómo se manejan o como se pueden manejas grandes cantidades de datos? Las BD nos ayudan a resolver este problema con un lenguaje de programacion llamado SQL (Structured Query Languaje), este nos permite dar instrucciones para trabajar con los datos mucho mas rapido que otras herraminetas como excel.
@@ -62,6 +56,10 @@ Existen diferentes cardinalidades dependiendo de las entidades con las que se es
 **`LIMIT`** limita el número de filas devueltas por los resultados de la consulta.
 
 
+>.[!NOTE]  
+>Aqui puedes descargar diferenses SGDB
+>`Maria DB` -> https://mariadb.org/ - Ligero soporta MariaDB, MySQL, Posgre.
+>`MySQL workbench` -> https://dev.mysql.com/downloads/workbench/ - Nativo en windows, linux, y mac, para trabajar con MySQL y MariaDB  
 
 ## Referencias
 ¿Qué es SQL?, AluraLatam, Paulo Silveira, 10/06/2021, https://www.aluracursos.com/blog/que-es-sql  
