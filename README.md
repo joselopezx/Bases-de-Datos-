@@ -20,8 +20,9 @@ Algunos de estos sistemas que se pueden encontrar en el mercado son MariaDB, MyS
 <img width="320" height="127" alt="image" src="https://github.com/user-attachments/assets/8b90a6e6-3618-4195-886c-fced7cadeecb" />  
 
 >.[!NOTE]  
->Aqui puedes descargar diferenses SGDB  
-`Maria db` -> https://mariadb.org/ - Ligero soporta MariaDB, MySQL, Posgre.  
+>Aqui puedes descargar diferenses SGDB
+
+`Maria DB` -> https://mariadb.org/ - Ligero soporta MariaDB, MySQL, Posgre.  
 `MySQL workbench` -> https://dev.mysql.com/downloads/workbench/ - Nativo en windows, linux, y mac, para trabajar con MySQL y MariaDB  
 
 ## Bases de datos y su uso para el analisis y la toma de deciciones empresariales
