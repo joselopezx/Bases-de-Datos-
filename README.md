@@ -49,17 +49,17 @@ Existen diferentes cardinalidades dependiendo de las entidades con las que se es
 #### Entidad debil
 
 ## Clausulas
-*SELECT* especifica qué columnas deben seleccionarse en la consulta.
+`SELECT` especifica qué columnas deben seleccionarse en la consulta.
 
-*FROM* especifica las tablas de la base de datos que se consultaran.
+`FROM` especifica las tablas de la base de datos que se consultaran.
 
-*WHERE* filtra los resultados de la consulta segun una o mas condiciones especificadas.
+`WHERE` filtra los resultados de la consulta segun una o mas condiciones especificadas.
 
-*ORDER BY* filtra los resultados de la cinsulta según una o mán condiciones especificadas.
+`*ORDER BY*` filtra los resultados de la cinsulta según una o mán condiciones especificadas.
 
-*GROUP BY* agrupa los resultados de la conuslta basados en una o más columnas.
+`GROUP BY` agrupa los resultados de la conuslta basados en una o más columnas.
 
-*LIMIT* limita el número de filas devueltas por los resultados de la consulta.
+`LIMIT` limita el número de filas devueltas por los resultados de la consulta.
 
 
 
