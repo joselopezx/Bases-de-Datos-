@@ -57,8 +57,8 @@ Existen diferentes cardinalidades dependiendo de las entidades con las que se es
 
 
 >.[!NOTE]  
->Aqui puedes descargar diferenses SGDB
->`Maria DB` -> https://mariadb.org/ - Ligero soporta MariaDB, MySQL, Posgre.
+>Aqui puedes descargar diferenses SGDB  
+>`Maria DB` -> https://mariadb.org/ - Ligero soporta MariaDB, MySQL, Posgre.  
 >`MySQL workbench` -> https://dev.mysql.com/downloads/workbench/ - Nativo en windows, linux, y mac, para trabajar con MySQL y MariaDB  
 
 ## Referencias
