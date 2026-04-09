@@ -43,17 +43,14 @@ Existen diferentes cardinalidades dependiendo de las entidades con las que se es
 #### Entidad debil
 
 ## Clausulas
-**`SELECT`** especifica qué columnas deben seleccionarse en la consulta.
-
-**`FROM`** especifica las tablas de la base de datos que se consultaran.
-
-**`WHERE`** filtra los resultados de la consulta segun una o mas condiciones especificadas.
-
-**`ORDER BY`** filtra los resultados de la cinsulta según una o mán condiciones especificadas.
-
-**`GROUP BY`** agrupa los resultados de la conuslta basados en una o más columnas.
-
-**`LIMIT`** limita el número de filas devueltas por los resultados de la consulta.
+**`CREATE DATABASE 'nombre de la bdd'`** Crea la base de datos con el nombre especificado.  
+**`DROP DATABASE nombre de la base de datos`** Elimina la base de datos del nombre especificado.  
+**`SELECT`** especifica qué columnas deben seleccionarse en la consulta.  
+**`FROM`** especifica las tablas de la base de datos que se consultaran.  
+**`WHERE`** filtra los resultados de la consulta segun una o mas condiciones especificadas.  
+**`ORDER BY`** filtra los resultados de la cinsulta según una o mán condiciones especificadas.  
+**`GROUP BY`** agrupa los resultados de la conuslta basados en una o más columnas.  
+**`LIMIT`** limita el número de filas devueltas por los resultados de la consulta.  
 
 
 >.[!NOTE]  
