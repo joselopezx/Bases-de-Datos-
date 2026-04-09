@@ -43,8 +43,10 @@ Existen diferentes cardinalidades dependiendo de las entidades con las que se es
 #### Entidad debil
 
 ## Clausulas
+### DDL  
 **`CREATE DATABASE 'nombre de la bdd'`** Crea la base de datos con el nombre especificado.  
 **`DROP DATABASE nombre de la base de datos`** Elimina la base de datos del nombre especificado.  
+### DML  
 **`SELECT`** especifica qué columnas deben seleccionarse en la consulta.  
 **`FROM`** especifica las tablas de la base de datos que se consultaran.  
 **`WHERE`** filtra los resultados de la consulta segun una o mas condiciones especificadas.  
