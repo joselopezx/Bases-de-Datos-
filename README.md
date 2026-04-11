@@ -54,22 +54,22 @@ Existen diferentes cardinalidades dependiendo de las entidades con las que se es
 **`GROUP BY`** agrupa los resultados de la conuslta basados en una o más columnas.  
 **`LIMIT`** limita el número de filas devueltas por los resultados de la consulta.  
 
-
+## Ejemplos
 ### Crear una tabla
 
-CREATE TABLE TBCLIENTES(DNI VARCHAR(20), 
-	NOMBRE VARCHAR(150), 
-	DIRECCION1 VARCHAR(150),
-	DIRECCION2 VARCHAR (150),
-	BARRIO VARCHAR(50),
-	CIUDAD VARCHAR(50),
-	ESTADO VARCHAR(50),
-	CP VARCHAR (10),
-	EDAD SMALLINT,
-	SEXO VARCHAR(1),
-	LIMITE_CREDITO FLOAT,
-	VOLUMEN_COMPRA FLOAT,
-	PRIMERA_COMPRA BIT(1));
+CREATE TABLE TBCLIENTES(DNI VARCHAR(20),  
+	NOMBRE VARCHAR(150),  
+	DIRECCION1 VARCHAR(150),  
+	DIRECCION2 VARCHAR (150),  
+	BARRIO VARCHAR(50),  
+	CIUDAD VARCHAR(50),  
+	ESTADO VARCHAR(50),  
+	CP VARCHAR (10),  
+	EDAD SMALLINT,  
+	SEXO VARCHAR(1),  
+	LIMITE_CREDITO FLOAT,  
+	VOLUMEN_COMPRA FLOAT,  
+	PRIMERA_COMPRA BIT(1));  
 
 
 >.[!NOTE]  
