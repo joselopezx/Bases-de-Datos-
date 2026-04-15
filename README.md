@@ -55,8 +55,20 @@ Existen diferentes cardinalidades dependiendo de las entidades con las que se es
 **`LIMIT`** limita el número de filas devueltas por los resultados de la consulta.  
 
 ## Ejemplos
-### Crear una tabla
+### Consultar datos en una tabla
+<pre>
 
+>.[!TIP]  
+>Aqui puedes descargar diferenses SGDB  
+>`Maria DB` -> https://mariadb.org/ - Ligero soporta MariaDB, MySQL, Posgre.  
+>`MySQL workbench` -> https://dev.mysql.com/downloads/workbench/ - Nativo en windows, linux, y mac, para trabajar con MySQL y MariaDB  
+
+	
+SELECT * FROM 'nombre de la tabla';
+
+SELECT * FROM tbproductos
+</pre>
+### Crear una tabla
 <pre>
 CREATE TABLE 'nombre de la nueva tabla' (nombre de la columna, tipo de dato, tamaño del atributo)
 	
@@ -74,6 +86,14 @@ CREATE TABLE TBCLIENTES(
 	LIMITE_CREDITO FLOAT,  
 	VOLUMEN_COMPRA FLOAT,  
 	PRIMERA_COMPRA BIT(1));  </pre>  
+
+### Insertar datos en una tabla
+<pre>
+INSERT INTO nombre de la tabla (nombres de las columnas) VALUES (valores de los atributos en orden);
+
+IINSERT INTO tbproductos (producto, nombre, envase, volumen, sabor, precio)
+	VALUES ('773912', 'clean', 'botella pet', '1 litro', 'naranja', 8.01);
+</pre>
 
 
 >.[!NOTE]  
