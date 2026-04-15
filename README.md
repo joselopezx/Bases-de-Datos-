@@ -58,7 +58,10 @@ Existen diferentes cardinalidades dependiendo de las entidades con las que se es
 ### Crear una tabla
 
 <pre>
-CREATE TABLE TBCLIENTES(DNI VARCHAR(20),  
+CREATE TABLE 'nombre de la nueva tabla' (nombre de la columna, tipo de dato, tamaño del atributo)
+	
+CREATE TABLE TBCLIENTES(
+	DNI VARCHAR(20),  
 	NOMBRE VARCHAR(150),  
 	DIRECCION1 VARCHAR(150),  
 	DIRECCION2 VARCHAR (150),  
