@@ -58,7 +58,7 @@ Existen diferentes cardinalidades dependiendo de las entidades con las que se es
 ### Crear una tabla
 
 CREATE TABLE TBCLIENTES(DNI VARCHAR(20),  
-	NOMBRE VARCHAR(150),  
+<pre>NOMBRE VARCHAR(150),  
 	DIRECCION1 VARCHAR(150),  
 	DIRECCION2 VARCHAR (150),  
 	BARRIO VARCHAR(50),  
@@ -69,7 +69,7 @@ CREATE TABLE TBCLIENTES(DNI VARCHAR(20),
 	SEXO VARCHAR(1),  
 	LIMITE_CREDITO FLOAT,  
 	VOLUMEN_COMPRA FLOAT,  
-	PRIMERA_COMPRA BIT(1));  
+	PRIMERA_COMPRA BIT(1));  </pre>  
 
 
 >.[!NOTE]  
