@@ -56,14 +56,13 @@ Existen diferentes cardinalidades dependiendo de las entidades con las que se es
 
 ## Ejemplos
 ### Consultar datos en una tabla
-<pre>
 
 >.[!TIP]  
 >Aqui puedes descargar diferenses SGDB  
 >`Maria DB` -> https://mariadb.org/ - Ligero soporta MariaDB, MySQL, Posgre.  
 >`MySQL workbench` -> https://dev.mysql.com/downloads/workbench/ - Nativo en windows, linux, y mac, para trabajar con MySQL y MariaDB  
 
-	
+<pre>	
 SELECT * FROM 'nombre de la tabla';
 
 SELECT * FROM tbproductos
