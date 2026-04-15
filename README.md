@@ -55,6 +55,9 @@ Existen diferentes cardinalidades dependiendo de las entidades con las que se es
 **`LIMIT`** limita el número de filas devueltas por los resultados de la consulta.  
 
 ## Ejemplos
+>[!ATENCION]
+>SQL no discrimina entre mayusculas o minusculas en sus clausulas, estó quiere decir que SELECT = select, sin embargo esto no aplica para nombres importantes como lo son la base de datos, tablas, atributos.
+
 ### Consultar datos en una tabla
 
 >[!NOTE]  
