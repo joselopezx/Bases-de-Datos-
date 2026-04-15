@@ -57,8 +57,9 @@ Existen diferentes cardinalidades dependiendo de las entidades con las que se es
 ## Ejemplos
 ### Crear una tabla
 
+<pre>
 CREATE TABLE TBCLIENTES(DNI VARCHAR(20),  
-<pre>NOMBRE VARCHAR(150),  
+	NOMBRE VARCHAR(150),  
 	DIRECCION1 VARCHAR(150),  
 	DIRECCION2 VARCHAR (150),  
 	BARRIO VARCHAR(50),  
