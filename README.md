@@ -58,9 +58,7 @@ Existen diferentes cardinalidades dependiendo de las entidades con las que se es
 ### Consultar datos en una tabla
 
 >[!NOTE]  
->Aqui puedes descargar diferenses SGDB  
->`Maria DB` -> https://mariadb.org/ - Ligero soporta MariaDB, MySQL, Posgre.  
->`MySQL workbench` -> https://dev.mysql.com/downloads/workbench/ - Nativo en windows, linux, y mac, para trabajar con MySQL y MariaDB  
+>Se utiliza el * para seleccionar todas las columnas, si solo se quiere seleccionar unas columnas se es necesario de especificar cuales se decean.
 
 <pre>	
 SELECT * FROM 'nombre de la tabla';
@@ -95,7 +93,7 @@ IINSERT INTO tbproductos (producto, nombre, envase, volumen, sabor, precio)
 </pre>
 
 
->.[!NOTE]  
+>[!NOTE]  
 >Aqui puedes descargar diferenses SGDB  
 >`Maria DB` -> https://mariadb.org/ - Ligero soporta MariaDB, MySQL, Posgre.  
 >`MySQL workbench` -> https://dev.mysql.com/downloads/workbench/ - Nativo en windows, linux, y mac, para trabajar con MySQL y MariaDB  
