@@ -97,10 +97,18 @@ IINSERT INTO tbproductos (producto, nombre, envase, volumen, sabor, precio)
 
 ### Modificar registros 
 >[!WARNING]
->Si se ejecuta esta clausula sin el uso del WHERE se estaran modificando todos los registros en esta.
+>Si se ejecuta está clausula sin el uso del **WHERE** se estaran modificando todos los registros en la tabla especificada.
 
 <pre>
-UPDATE tabla SET (columna = nuevo valor, columna = nuevo valor) WHERE (columna = valor)
+UPDATE tabla SET (columna = nuevo valor, columna = nuevo valor) WHERE (columna = valor);
+</pre>
+
+### Borrar registros
+>[!WARNING]
+>Si se ejecuta está clausula sin el uso del **WHERE** se estara borrando toda la tabla.
+
+<pre>
+DELETE FROM tabla WHERE columna = valor;
 </pre>
 
 
