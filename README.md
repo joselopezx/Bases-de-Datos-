@@ -52,7 +52,7 @@ Existen diferentes cardinalidades dependiendo de las entidades con las que se es
 **`WHERE`** filtra los resultados de la consulta segun una o mas condiciones especificadas.  
 **`ORDER BY`** filtra los resultados de la cinsulta según una o mán condiciones especificadas.  
 **`GROUP BY`** agrupa los resultados de la conuslta basados en una o más columnas.  
-**`LIMIT`** limita el número de filas devueltas por los resultados de la consulta. 
+**`LIMIT`** limita el número de filas devueltas por los resultados de la consulta.  
 **`DELETE`** Borra un registro de una tabla.
 
 ## Ejemplos
