@@ -95,6 +95,14 @@ IINSERT INTO tbproductos (producto, nombre, envase, volumen, sabor, precio)
 	VALUES ('773912', 'clean', 'botella pet', '1 litro', 'naranja', 8.01);
 </pre>
 
+### Modificar registros 
+>[!WARNING]
+>Si se ejecuta esta clausula sin el uso del WHERE se estaran modificando todos los registros en esta.
+
+<pre>
+UPDATE tabla SET (columna = nuevo valor, columna = nuevo valor) WHERE (columna = valor)
+</pre>
+
 
 >[!NOTE]  
 >Aqui puedes descargar diferenses SGDB  
